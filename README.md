@@ -1,56 +1,55 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 ![Badge eng.software UNB](https://img.shields.io/badge/Software_Engineer-UNB-blue?style=flat)
 
 
 <div align="center">
-  <h2>Bem-vindo ao repositório! </h2>
+  <h2>Bem-vindo ao repositÃ³rio! </h2>
 </div> 
 
-<!-- Título centralizado -->
+<!-- TÃ­tulo centralizado -->
 <div align="center">
-  <h1>??? Estrutura de dados <sub> (Data Structures)</sub></h1>
+  <h1>ğŸ—„ï¸ Estrutura de dados <sub> (Data Structures)</sub></h1>
 </div>
 
-<!-- Título centralizado -->
+<!-- TÃ­tulo centralizado -->
 <div align="center">
-  <h2>?? Objetivo </h2>
+  <h2>ğŸ¯ Objetivo </h2>
 </div> 
 
 ? Compartilhar conhecimento enquanto desvendo as nunacias da estrutura de dados.
-? Ponto de controle nos conhecimentos aprendidos durantes as matérias de EDA na UNB.
+? Ponto de controle nos conhecimentos aprendidos durantes as matÃ©rias de EDA na UNB.
 
-<!-- Título centralizado -->
+<!-- TÃ­tulo centralizado -->
 <div align="center">
-  <h2>??????? Funcionalidades </h2>
+  <h2>ğŸ‘©ğŸ¾â€ğŸ’» Funcionalidades </h2>
 </div> 
 
-Este projeto oferece uma série de estruturas de dados e algorítimos que resolvem questões desde ordenação até manipulação de dados eficiente. 
-    ? Algorítimos elementares de ordenação
-    ? Algorítimos eficientes de ordenação
-    ? Tabela de dispersão (Hash tables)
-    ? Árvores Binárias de Busca (ABB's)
+Este projeto oferece uma sÃ©rie de estruturas de dados e algorÃ­timos que resolvem questÃµes desde ordenaÃ§Ã£o atÃ© manipulaÃ§Ã£o de dados eficiente. 
+    ? AlgorÃ­timos elementares de ordenaÃ§Ã£o
+    ? AlgorÃ­timos eficientes de ordenaÃ§Ã£o
+    ? Tabela de dispersÃ£o (Hash tables)
+    ? Ãrvores BinÃ¡rias de Busca (ABB's)
 
-<!-- Título centralizado -->
+<!-- TÃ­tulo centralizado -->
 <div align="center">
   <h2>?? Como executar o projeto </h2>
 </div> 
 
-### 1. ?? Pré-requisitos
-Esses são os nossos pré-requisitos, eles garantem uma base sólida para colaboração, ajudando a evitar erros e facilitando a contribuição:
-    ? Ambiente que possua o compliador para a linguagem C. Preferência: GCC.
+### 1. ğŸ”‘ PrÃ©-requisitos
+Esses sÃ£o os nossos prÃ©-requisitos, eles garantem uma base sÃ³lida para colaboraÃ§Ã£o, ajudando a evitar erros e facilitando a contribuiÃ§Ã£o:
+    ? Ambiente que possua o compliador para a linguagem C. PreferÃªncia: GCC.
 
 
-<!-- Adiciona a funçao de copiar o link do repositorio -->
-### 3. ?? Clonar o Repositório
-Vamos começar clonando um repositório do GitHub em um diretório local através do terminal, conforme indicado a seguir:
+<!-- Adiciona a funÃ§ao de copiar o link do repositorio -->
+### 3. ğŸ“ Clonar o RepositÃ³rio
+Vamos comeÃ§ar clonando um repositÃ³rio do GitHub em um diretÃ³rio local atravÃ©s do terminal, conforme indicado a seguir:
 ```
 git clone https://github.com/<name>.git
 ```
   	
 
 <div align="center">
-  <h2>????? Colaboradores </h2>
+  <h2>ğŸ‘©â€ğŸ’» Colaboradores </h2>
 </div> 
 <!-- Foto dos participantes do grupo -->
 <table>
@@ -68,19 +67,19 @@ git clone https://github.com/<name>.git
 
 <!-- 
 <div align="center">
-  <h2>?? Documentação </h2>
+  <h2>?? DocumentaÃ§Ã£o </h2>
 </div> 
  
 
-### A documentação do projeto pode ser encontrada clicando [AQUI](https://fga0138-mds-ajax.github.io/2024-1-RIGEL/).
+### A documentaÃ§Ã£o do projeto pode ser encontrada clicando [AQUI](https://fga0138-mds-ajax.github.io/2024-1-RIGEL/).
 --->
 
 <div align="center">
-  <h2>©? Licença </h2>
+  <h2>Â©? LicenÃ§a </h2>
 </div>
 
-ESTE SOFTWARE ESTÁ SOB LICENÇA: [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) ©
-<!-- Criador e licença -->
+ESTE SOFTWARE ESTÃ SOB LICENÃ‡A: [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) Â©
+<!-- Criador e licenÃ§a -->
 
 <!-- Icons das ferramentas e linguagens utilizadas -->
 <p align="left">
