@@ -9,7 +9,7 @@ typedef struct no {
 int altura (no *r);
 
 int altura (no *r){
-    if(r == NULL) return -1;
+    if(r == NULL) return 0;
     else{
     int he = altura(r->esq);
     int hd = altura(r->dir);
